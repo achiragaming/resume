@@ -78,19 +78,10 @@ _Currently Studying_
 
 ---
 
-### **Certifications**
+### **Additional Information**
 
-- [Certification 1](./certificates/IMG-20240807-WA0019.jpg)
-- [Certification 2](./certificates/IMG-20240807-WA0020.jpg)
-- [Certification 3](./certificates/IMG-20240807-WA0021.jpg)
-- [Certification 4](./certificates/IMG-20240807-WA0022.jpg)
-
----
-
-### **Projects Screenshots**
-
-- [ict.mrcm.lk](./app_screenshots/ict_mrcm.png)
-- [sport.mrcm.lk](./app_screenshots/sport_mrcm.png)
+- **Certifications:** See [Certifications](certificates.md)
+- **Projects Screenshots:** See [Projects Screenshots](screenshots.md)
 
 ---
 
