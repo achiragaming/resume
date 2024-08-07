@@ -1,7 +1,3 @@
-Here's the updated CV with your certificates information:
-
----
-
 **Achira Nimnaka**
 
 - **Email:** achira8856@gmail.com
