@@ -80,8 +80,8 @@ _Currently Studying_
 
 ### **Additional Information**
 
-- **Certifications:** See [Certifications](certificates.md)
-- **Projects Screenshots:** See [Projects Screenshots](screenshots.md)
+- **Certifications:** See [Certifications](Certificates.md)
+- **Projects Screenshots:** See [Projects Screenshots](Screenshots.md)
 
 ---
 
