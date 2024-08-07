@@ -26,7 +26,7 @@ Enthusiastic and dedicated Node.js developer with 3 years of experience in backe
 ### **Professional Experience**
 
 **Backend Developer**  
-*NoError* – *Online Organization, India*  
+_NoError_ – _Online Organization, India_
 
 - Developed and maintained Node.js applications, ensuring high performance and responsiveness.
 - Implemented custom storage solutions and file streaming mechanisms using Node.js and TypeScript.
@@ -36,7 +36,7 @@ Enthusiastic and dedicated Node.js developer with 3 years of experience in backe
 - Utilized DevOps practices to automate and streamline deployment processes using Kubernetes and Docker.
 
 **DevOps Engineer**  
-*NoError* – *Online Organization, India*  
+_NoError_ – _Online Organization, India_
 
 - Set up and maintained Kubernetes clusters using k3s, ensuring high availability and scalability.
 - Configured and managed Nginx Proxy Manager for efficient traffic routing and load balancing.
@@ -48,40 +48,49 @@ Enthusiastic and dedicated Node.js developer with 3 years of experience in backe
 
 ### **Projects**
 
-**CDN Edge Server**  
+**CDN Edge Server**
+
 - Developed a CDN edge server that downloads files in chunks, caches them, and serves requested ranges to clients.
 - Implemented communication between CDN servers using RabbitMQ/NATS/Kafka to prevent double deletion during cleanups.
 - **Links:** [CDN Edge](https://cdn-edge.noerror.studio), [CDN Origin](https://cdn-origin.noerror.studio), [CDN Example](https://uploader.noerror.studio/upload)
 
-**File Upload Component in Next.js**  
+**File Upload Component in Next.js**
+
 - Created an upload component using Next.js and Ant Design that sends requests to the CDN to create temporary tokens before uploading files in chunks.
 - Ensured secure handling of CDN credentials and supported multiple simultaneous uploads.
 
-**Discord Bot using Kubernetes**  
+**Discord Bot using Kubernetes**
+
 - Developed a music bot called Braindance, utilizing Kubernetes for clustering services, ensuring scalability and high availability.
 - Used RabbitMQ for efficient messaging within the bot's architecture.
 
-**Website Development**  
-- Collaborated with a team to create [ict.mrcm.lk](https://ict.mrcm.lk), a comprehensive ICT resource site.
+**Website Development**
+
+- Collaborated with a team to create [ict.mrcm.lk](https://ict.mrcm.lk) and [sport.mrcm.lk](https://sport.mrcm.lk), a comprehensive ICT resource site.
 
 ---
 
 ### **Education**
 
 **Advanced Level Examination**  
-*Sri Lanka*  
-*Currently Studying*
+_Sri Lanka_  
+_Currently Studying_
 
 ---
 
 ### **Certifications**
 
-- [Certification 1](https://uploader.noerror.studio/download/66b35a90402ce50bf5b5acfb)
-- [Certification 2](https://uploader.noerror.studio/download/66b35a93402ce50bf5b5acfd)
-- [Certification 3](https://uploader.noerror.studio/download/66b35a98402ce50bf5b5ad03)
-- [Certification 4](https://uploader.noerror.studio/download/66b35a9a402ce50bf5b5ad05)
+- [Certification 1](./certificates/IMG-20240807-WA0019.jpg)
+- [Certification 2](./certificates/IMG-20240807-WA0020.jpg)
+- [Certification 3](./certificates/IMG-20240807-WA0021.jpg)
+- [Certification 4](./certificates/IMG-20240807-WA0022.jpg)
 
-*These certificates are hosted on my robust CDN server.*
+---
+
+### **Projects Screenshots**
+
+- [ict.mrcm.lk](./app_screenshots/ict_mrcm.png)
+- [sport.mrcm.lk](./app_screenshots/sport_mrcm.png)
 
 ---
 
